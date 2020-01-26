@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crypto-app/static/css/main.feb29e28.chunk.css",
+    "main.js": "/crypto-app/static/js/main.4eca5492.chunk.js",
+    "main.js.map": "/crypto-app/static/js/main.4eca5492.chunk.js.map",
+    "runtime-main.js": "/crypto-app/static/js/runtime-main.a54917cb.js",
+    "runtime-main.js.map": "/crypto-app/static/js/runtime-main.a54917cb.js.map",
+    "static/js/2.27c0cb5b.chunk.js": "/crypto-app/static/js/2.27c0cb5b.chunk.js",
+    "static/js/2.27c0cb5b.chunk.js.map": "/crypto-app/static/js/2.27c0cb5b.chunk.js.map",
+    "index.html": "/crypto-app/index.html",
+    "precache-manifest.a06e95ef67cc657d77c7ee77e4529cc7.js": "/crypto-app/precache-manifest.a06e95ef67cc657d77c7ee77e4529cc7.js",
+    "service-worker.js": "/crypto-app/service-worker.js",
+    "static/css/main.feb29e28.chunk.css.map": "/crypto-app/static/css/main.feb29e28.chunk.css.map",
+    "static/js/2.27c0cb5b.chunk.js.LICENSE": "/crypto-app/static/js/2.27c0cb5b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54917cb.js",
+    "static/js/2.27c0cb5b.chunk.js",
+    "static/css/main.feb29e28.chunk.css",
+    "static/js/main.4eca5492.chunk.js"
+  ]
+}
